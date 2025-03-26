@@ -3,7 +3,6 @@ Ce script Python permet d'interagir avec SQLMap pour automatiser la détection e
 
 🚀 Fonctionnalités
 📌 Détection des bases de données vulnérables
-
 📌 Récupération des tables d'une base spécifique
 📌 Extraction des colonnes d'une table
 📌 Dump des données d'une table
@@ -28,7 +27,8 @@ Clone ce projet dans ton système :
 
 🔥 Utilisation
 Lance le script en exécutant :
-`python sqlmap_interactif.py`
+`python SQLX1.py` to check SQLi vulnerability and check available databases and their columns
+`python SQLX2.py` to dump data
 
 Ensuite, entre l'URL cible lorsque demandé.
 📌 Menu interactif
